@@ -30,15 +30,3 @@ Space		activate
 Esc			quit
 
 IMPORTANT NOTE: changing out of the window will mess up texture alpha values (screen goes completely black), restart to fix
-
-TODO:
-
-- cat sprites
-- depth y value
-
-BUGS:
-
-- darkness alpha when changing to fullscreen
-- runtime error
-- text disappear and crash
-- rain & other randomness
