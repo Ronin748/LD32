@@ -70,7 +70,6 @@
     <ClCompile Include="Src\Game\Animation.cpp" />
     <ClCompile Include="Src\Game\Collision.cpp" />
     <ClCompile Include="Src\Game\Game.cpp" />
-    <ClCompile Include="Src\Game\Load.cpp" />
     <ClCompile Include="Src\Game\PCG.cpp" />
     <ClCompile Include="Src\Input.cpp" />
     <ClCompile Include="Src\Main.cpp" />

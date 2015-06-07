@@ -23,7 +23,7 @@ public:
 	void Fullscreen(SDL_Window* window, bool fulscr);
 
 	Screen() {
-		fullscreen = false;
+		fullscreen = true;
 		scale_x = 1;
 		scale_y = 1;
 	}

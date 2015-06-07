@@ -1,20 +1,20 @@
-﻿Build started 3.5.2015 20:05:03.
-     1>Project "C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\LD32\LD32.vcxproj" on node 2 (Build target(s)).
+﻿Build started 7.6.2015 2:58:39.
+     1>Project "C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\LD32\LD32.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Src\Game\AI.cpp Src\Game\Animation.cpp Src\Game\Collision.cpp Src\Game\Game.cpp Src\Game\Load.cpp Src\Game\PCG.cpp Src\Input.cpp Src\Main.cpp Src\Renderer.cpp Src\Window.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Src\Game\AI.cpp Src\Game\Animation.cpp Src\Game\Collision.cpp Src\Game\Game.cpp Src\Game\PCG.cpp Src\Input.cpp Src\Main.cpp Src\Renderer.cpp Src\Window.cpp
          AI.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Game\AI.cpp(187): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\AI.cpp(216): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\AI.cpp(277): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
@@ -22,34 +22,34 @@
      1>Src\Game\AI.cpp(283): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\AI.cpp(286): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
          Animation.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Game\Animation.cpp(5): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
      1>Src\Game\Animation.cpp(5): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\Animation.cpp(10): warning C4018: '>=' : signed/unsigned mismatch
          Collision.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Game\Collision.cpp(38): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
      1>Src\Game\Collision.cpp(38): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
      1>Src\Game\Collision.cpp(39): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
@@ -87,18 +87,18 @@
      1>Src\Game\Collision.cpp(140): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
      1>Src\Game\Collision.cpp(140): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
          Game.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Game\Game.cpp(58): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\Game.cpp(84): warning C4018: '<' : signed/unsigned mismatch
      1>Src\Game\Game.cpp(88): warning C4018: '<' : signed/unsigned mismatch
@@ -115,45 +115,32 @@
      1>Src\Game\Game.cpp(241): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\Game.cpp(270): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
      1>Src\Game\Game.cpp(285): warning C4244: '*=' : conversion from 'double' to 'int', possible loss of data
-         Load.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
-     1>Src\Game\Load.cpp(10): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(17): warning C4018: '<' : signed/unsigned mismatch
-     1>Src\Game\Load.cpp(18): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(19): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(23): warning C4018: '<' : signed/unsigned mismatch
-     1>Src\Game\Load.cpp(24): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(25): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(36): warning C4018: '<' : signed/unsigned mismatch
-     1>Src\Game\Load.cpp(37): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(38): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(42): warning C4018: '<' : signed/unsigned mismatch
-     1>Src\Game\Load.cpp(43): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>Src\Game\Load.cpp(44): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(307): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(314): warning C4018: '<' : signed/unsigned mismatch
+     1>Src\Game\Game.cpp(315): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(316): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(320): warning C4018: '<' : signed/unsigned mismatch
+     1>Src\Game\Game.cpp(321): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(322): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(333): warning C4018: '<' : signed/unsigned mismatch
+     1>Src\Game\Game.cpp(334): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(335): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>Src\Game\Game.cpp(340): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Src\Game\Game.cpp(341): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
          PCG.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Game\PCG.cpp(57): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
      1>Src\Game\PCG.cpp(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
      1>Src\Game\PCG.cpp(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
@@ -170,46 +157,46 @@
      1>Src\Game\PCG.cpp(211): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
      1>Src\Game\PCG.cpp(213): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
          Input.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Input.cpp(8): warning C4244: '/=' : conversion from 'float' to 'int', possible loss of data
      1>Src\Input.cpp(9): warning C4244: '/=' : conversion from 'float' to 'int', possible loss of data
          Main.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
          Renderer.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
      1>Src\Renderer.cpp(10): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
      1>Src\Renderer.cpp(11): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
      1>Src\Renderer.cpp(15): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
@@ -272,25 +259,24 @@
      1>Src\Renderer.cpp(361): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
      1>Src\Renderer.cpp(367): warning C4305: 'argument' : truncation from 'double' to 'float'
          Window.cpp
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
-     1>c:\users\roni a. koitermaa\documents\visual studio 2013\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(31): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\..\Texture.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Animation.h(23): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(51): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(52): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(58): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(59): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(65): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(66): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(105): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\game\Object.h(106): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\roni a. koitermaa\documents\projects\ld32\ld32\src\Game\Game.h(101): warning C4305: '=' : truncation from 'double' to 'float'
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\Release\LD32.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\Release\LD32.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\Release\LD32.lib" /MACHINE:X86 /SAFESEH Release\LD32.res
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\Release\LD32.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\Release\LD32.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\Release\LD32.lib" /MACHINE:X86 /SAFESEH Release\LD32.res
          Release\AI.obj
          Release\Animation.obj
          Release\Collision.obj
          Release\Game.obj
-         Release\Load.obj
          Release\PCG.obj
          Release\Input.obj
          Release\Main.obj
@@ -298,9 +284,9 @@
          Release\Window.obj
          Generating code
          Finished generating code
-         LD32.vcxproj -> C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\Release\LD32.exe
-     1>Done Building Project "C:\Users\Roni A. Koitermaa\Documents\Visual Studio 2013\Projects\LD32\LD32\LD32.vcxproj" (Build target(s)).
+         LD32.vcxproj -> C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\Release\LD32.exe
+     1>Done Building Project "C:\Users\Roni A. Koitermaa\Documents\Projects\LD32\LD32\LD32.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.94
+Time Elapsed 00:00:03.95
