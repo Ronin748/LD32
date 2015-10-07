@@ -21,12 +21,12 @@ in your cabin restores health, oil and you gain xp. You can also upgrade your co
 
 Controls:
 
-WASD		move
-E			attack mode
-Q			defend mode
-F			lantern
-R			leash
-Space		activate
-Esc			quit
+WASD    move
+E   attack mode
+Q   defend mode
+F  lantern
+R  leash
+Space   activate
+Esc   quit
 
 IMPORTANT NOTE: changing out of the window will mess up texture alpha values (screen goes completely black), restart to fix
